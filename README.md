@@ -109,7 +109,7 @@ mindset: >
 
 | Domain | Level | Details |
 |:--|:--:|:--|
-| **Python for Data Analysis** | `●●●●○` Familiar | NumPy & Pandas for data handling and manipulation |
+| **Python for AI&ML** | `●●●●○` Familiar | NumPy & Pandas for data handling and manipulation |
 | **Data Analytics** | `●●●●○` Familiar | Applied through GenAI & Data Analytics job simulations |
 | **Machine Learning Basics** | `●●●○○` Learning | Core ML concepts using scikit-learn |
 | **Deep Learning** | `●●○○○` Learning | Getting hands-on with TensorFlow & PyTorch |
@@ -152,7 +152,6 @@ mindset: >
 | Recognition | Details |
 |:--|:--|
 | 🏆 Smart India Hackathon (SIH) 2025 | Top 10 — Internal / Premises Round |
-| 🎯 JECRC HackQuest 8.0 | Participant, JECRC University |
 
 </div>
 
